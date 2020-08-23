@@ -1,4 +1,4 @@
-#A Code In Progress
+# A Code In Progress
 
 I'm **Sharon** and my passion is **code** and **connecting** people and organizations with code and technology.
 
